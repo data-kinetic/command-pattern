@@ -17,17 +17,16 @@ matplotlib and numpy for visualization
 ## Installation
 Clone the repository:
 
-bash
-'''git clone https://github.com/yourusername/ai-customer-support.git
-cd ai-customer-support'''
+~~~sh
+git clone https://github.com/yourusername/ai-customer-support.git
+cd ai-customer-support
 
 ### Install the required Python packages:
 
-'''
+~~~sh
 pip install -r requirements.txt
 Set up environment variables:
-'''
 
-##Create a .env file in the project root directory and add your OpenAI API key:
+## Create a .env file in the project root directory and add your OpenAI API key:
 
 OPENAI_API_KEY=your_openai_api_key
