@@ -17,10 +17,9 @@ matplotlib and numpy for visualization
 ## Installation
 Clone the repository:
 
-'''
-git clone https://github.com/yourusername/ai-customer-support.git
-cd ai-customer-support
-'''
+bash
+'''git clone https://github.com/yourusername/ai-customer-support.git
+cd ai-customer-support'''
 
 ### Install the required Python packages:
 
