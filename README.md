@@ -1,20 +1,20 @@
-#AI-Powered Customer Support Management System - Command Pattern Example
+# AI-Powered Customer Support Management System - Command Pattern Example
 This project is an AI-powered customer support management system designed to streamline the process of handling support tickets. It uses OpenAI's GPT model to interpret natural language commands and execute corresponding support operations. This system can create, update, escalate, and resolve support tickets, providing a more efficient and consistent customer support experience.
 
-##Features
+## Features
 Natural Language Processing: Interprets customer support commands in natural language.
 Ticket Management: Supports ticket creation, updates, escalation, and resolution.
 Automated Responses: Uses AI to handle and categorize tickets automatically.
 Logging and Visualization: Logs all actions and visualizes ticket statuses and trends for better insights.
 
-##Getting Started
+## Getting Started
 Prerequisites
 Python 3.9 or higher
 OpenAI Python library
 dotenv for environment variable management
 matplotlib and numpy for visualization
 
-##Installation
+## Installation
 Clone the repository:
 
 bash
