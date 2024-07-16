@@ -18,15 +18,16 @@ matplotlib and numpy for visualization
 Clone the repository:
 
 ~~~sh
-git clone https://github.com/yourusername/ai-customer-support.git
+git clone [https://github.com/yourusername/ai-customer-support.git](https://github.com/data-kinetic/command-pattern.git)
 cd ai-customer-support
+~~~
 
 ### Install the required Python packages:
 
 ~~~sh
 pip install -r requirements.txt
-Set up environment variables:
+~~~
 
-## Create a .env file in the project root directory and add your OpenAI API key:
+### Set up environment variables:
 
-OPENAI_API_KEY=your_openai_api_key
+Create a .env file in the project root directory using .env.example as a template
